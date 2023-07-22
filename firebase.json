@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "blogManagement",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}

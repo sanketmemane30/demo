@@ -1,0 +1,18 @@
+/* Add a background image to the container */
+.container-fluid {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+    background-color: gainsboro;
+  }
+  
+  /* Center the card on the page */
+  .card {  
+    margin: 0 auto;
+    max-width: 400px;
+    background-color: rgba(244, 246, 247, 0.9); /* Add a semi-transparent white background to the card */
+  }
+  
+  /* Rest of the CSS remains the same as provided in the previous answer */
+  

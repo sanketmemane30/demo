@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "blog-mangment": {
+      "hosting": {
+        "blogManagement": [
+          "blog-mangment"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "blog-mangment"
+  }
+}
